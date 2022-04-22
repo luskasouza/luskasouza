@@ -5,7 +5,7 @@
     
 </p>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<table>
+<table style="visibility: collapse;">
    <tr>
       <td><img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></td>
       <td><img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/></td>
