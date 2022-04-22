@@ -5,8 +5,15 @@
     
 </p>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img style="width:  40px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<table>
+   <tr>
+      <td><img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></td>
+      <td><img style="width: 40px; "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/></td>
+      <td><img style="width: 40px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></td>
+   </tr>
+</table>
+
+          
           
 
 
