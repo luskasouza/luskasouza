@@ -4,6 +4,10 @@
   </b>
 </h1>
 
+<p align="center">
+    <a href="https://github.com/luskasouza"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luskasouza&theme=tokyonight&hide_border=true"  width="520" alt="luskasouza"/></a>
+<a href="https://github.com/luskasouza"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=luskasouza&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="luskasouza"/></a>
+</p>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/luskasouza/count.svg">
