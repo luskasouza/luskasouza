@@ -13,7 +13,8 @@
 <p align="left">
   <a href="https://abhigyantrips.dev/">
    <p align="center">
-    <a href="https://github.com/luskasouza"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luskasouza&theme=dracula&hide_border=true"  width="49.5%"" alt="luskasouza"/></a>
+    <a href="https://github.com/luskasouza">
+     <img  width="49.5%"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luskasouza&theme=dracula&hide_border=true"   alt="luskasouza"/></a>
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=luskasouza&theme=dracula&hide_border=true" />
   </a>
 </p>
