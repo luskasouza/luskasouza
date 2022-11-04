@@ -14,7 +14,7 @@
   <a href="https://abhigyantrips.dev/">
    <p align="center">
     <a href="https://github.com/luskasouza">
-     <img   width="50%" height="49.5%"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luskasouza&theme=dracula&hide_border=true"   alt="luskasouza"/></a>
+     <img   width="50%" height="60.5%"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luskasouza&theme=dracula&hide_border=true"   alt="luskasouza"/></a>
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=luskasouza&theme=dracula&hide_border=true" />
   </a>
 </p>
