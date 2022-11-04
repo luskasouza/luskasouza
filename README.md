@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/luskasouza/count.svg">
 </div>
 <div align=center>
- <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello World👋"/>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45F707&background=3DFF0400&center=true&vCenter=true&multiline=true&width=435&lines=Hello+World%F0%9F%91%8B" alt="Typing SVG" /></a>
 </div>
 <br>
 <br/>
