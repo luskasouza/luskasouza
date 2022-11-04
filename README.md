@@ -1,8 +1,9 @@
-<div align=center>
-  <h1>
+<h1 align="center">
+ <b>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45F707&center=true&vCenter=true&multiline=true&width=435&lines=Hello+World%F0%9F%91%8B" alt="Typing SVG" />
+  </b>
 </h1>
-</div>
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/luskasouza/count.svg">
