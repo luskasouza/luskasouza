@@ -1,5 +1,6 @@
 <h1 align="center">
   <b>Hello World👋</b>
+  <img src="https://profile-counter.glitch.me/luskasouza/count.svg">
 </h1>
 <br>
 <br/>
