@@ -1,7 +1,8 @@
-<h1 align="center">
-  <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello World👋" alt="Headline" />
-</h1>
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello World👋" alt="Headline" />
+
+ </div>
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/luskasouza/count.svg">
 </div>
