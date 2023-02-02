@@ -29,5 +29,3 @@
 </p>
 <p>
 <br>
-
-[![luskasouza Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=luskasouza&custom_title=luskasouza&theme=dracula&bg_color=282828&hide_border=true&line=FD6E95&point=3572A5)](https://github.com/luskasouza)
