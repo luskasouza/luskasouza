@@ -11,7 +11,8 @@
 </div>
 
 <p>
-  
+  ![luskasouza's GitHub stats](https://github-readme-stats.vercel.app/api?username=luskasouza&show_icons=true&theme=radical)
+
   
 | ![luskasouza's github stats](https://github-readme-stats.vercel.app/api?username=luskasouza&show_icons=true&theme=react)  | ![luskasouza GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luskasouza&theme=react)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
